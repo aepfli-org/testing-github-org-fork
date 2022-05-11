@@ -1,3 +1,5 @@
+# Copied from https://github.com/github/platform-samples/tree/master/api/ruby/find-inactive-members 
+
 require "csv"
 require "octokit"
 require 'optparse'
